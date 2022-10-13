@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mechanic Version Mechanic Finder</string>
+    <string name="apiKey">AIzaSyAIxXiM1QpWmnXvvMAYH9vEkahjR_6IMXw</string>
+    <string name="title_activity_car_owner_maps">MechanicMapsActivity</string>
+    <string name="title_activity_car_owner_map">MechanicMapActivity</string>
+    <string name="title_activity_mechanic_maps">MechanicMapsActivity</string>
+</resources>

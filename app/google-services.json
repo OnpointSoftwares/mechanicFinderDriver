@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768746472634",
+    "project_id": "mechanicfinder-d0833",
+    "storage_bucket": "mechanicfinder-d0833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768746472634:android:18da45fb2ffb692e0bee83",
+        "android_client_info": {
+          "package_name": "com.example.mechanicfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768746472634-01ls45u99tf89go37jd85igao1vv1n3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtstYesKnVBHLvittaqXQktgb6UsM9t9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768746472634-01ls45u99tf89go37jd85igao1vv1n3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
